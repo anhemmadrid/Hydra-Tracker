@@ -8,9 +8,9 @@
 - [ ] Set nhóm trưởng là Owner/Administrator
 
 ### 📋 Tạo GitHub Project (Scrum board)
-- [ ] Chọn Board hoặc Table view
-- [ ] Tạo các cột: Backlog, To-Do, In Progress, Review, Done
-- [ ] Định nghĩa Milestones (MVP, Beta, Final Presentation)
+- [x] Chọn Board hoặc Table view (https://github.com/orgs/anhemmadrid/projects/1/views/1)
+- [x] Tạo các cột: Backlog, To-Do, In Progress, Review, Done
+- [x] Định nghĩa Milestones (MVP, Beta, Final Presentation)
 
 ### 📝 Viết Wiki – Project Overview
 - [x] Tên dự án & slogan
@@ -39,7 +39,7 @@
 - [ ] Đảm bảo board public hoặc share với giảng viên
 
 ### 📤 Nộp bài
-- [ ] Nộp link trang chủ Wiki GitHub Org
+- [ ] Nộp link trang chủ Wiki GitHub Org (https://github.com/anhemmadrid/Hydra-Tracker/wiki)
 
 ---
 

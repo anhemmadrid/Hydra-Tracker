@@ -106,3 +106,4 @@ flowchart LR
     
     UserAction -- "Bỏ qua / Bận" --> AutoDismiss["Tự động lên lịch nhắc lại sau 30 phút"]
 ```
+

@@ -112,3 +112,4 @@ quadrantChart
 - **Tập trung vào "Micro-Interaction":** Tối ưu animation rót nước mượt mà và thao tác chạm cốc preset nhanh như chớp.
 - **Trải nghiệm sạch sẽ (Clean UX):** Tuyệt đối không để quảng cáo che khuất thao tác người dùng.
 - **Nhẹ nhàng duy trì thói quen:** Sử dụng chuỗi Streak liên tục và thông báo hài hước, đúng giờ để người dùng tự giác uống nước mà không cảm thấy bị áp lực.
+

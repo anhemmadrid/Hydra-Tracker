@@ -64,3 +64,4 @@ Tuy nhiên, trong thực tế hiện nay:
 - 🧩 **[Business Model Canvas (Mô hình kinh doanh)](Business-Model-Canvas.md)**
 - 🚀 **[MVP Features & Ma trận ưu tiên](MVP-Features.md)**
 - 🔄 **[User Flows & Sơ đồ tương tác](User-Flows.md)**
+

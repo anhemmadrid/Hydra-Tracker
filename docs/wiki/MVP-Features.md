@@ -98,3 +98,4 @@ Phân vùng:
 3. Thêm các loại đồ uống nâng cao (Cà phê, trà, sinh tố với hệ số khử nước).
 4. Tính toán bù nước tự động theo định vị thời tiết (GPS Weather API).
 5. Bảng xếp hạng thi đua uống nước cùng nhóm bạn bè (Social Leaderboard).
+

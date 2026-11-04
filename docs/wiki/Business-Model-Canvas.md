@@ -28,3 +28,4 @@
 1. **Zero-Friction Logging:** Giảm thiểu tối đa thao tác. Bạn không cần phải suy nghĩ, bấm nút chọn loại nước hay gõ bàn phím phức tạp — mở app chạm đúng kích thước cốc là xong.
 2. **Ad-Free Commitment:** Trong khi các đối thủ cạnh tranh kiếm tiền bằng cách tra tấn người dùng với quảng cáo video 15s mỗi lần uống nước, Hydra Tracker cam kết giữ nguyên sự tĩnh lặng và tôn trọng sự chú ý của người dùng.
 3. **Habit-Loop Psychology:** Ứng dụng áp dụng mô hình vòng lặp thói quen (*Cue - Routine - Reward*): Nhắc nhở đúng nhịp (Gợi ý) $\rightarrow$ Chạm 1 phát ghi nhận (Hành vi siêu dễ) $\rightarrow$ Âm thanh sảng khoái và đếm chuỗi ngày (Phần thưởng tức thì).
+

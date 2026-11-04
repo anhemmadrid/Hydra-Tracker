@@ -3,7 +3,7 @@
 ## Assignment 1 — GitHub Org & Wiki Setup
 
 ### 🏗️ Tạo GitHub Organization
-- [ ] Đặt tên org theo tên nhóm
+- [x] Đặt tên org theo tên nhóm (`anhemmadrid`)
 - [ ] Mời tất cả thành viên làm collaborator
 - [ ] Set nhóm trưởng là Owner/Administrator
 
@@ -13,24 +13,24 @@
 - [ ] Định nghĩa Milestones (MVP, Beta, Final Presentation)
 
 ### 📝 Viết Wiki – Project Overview
-- [ ] Tên dự án & slogan
-- [ ] Mô tả mục đích và mục tiêu ứng dụng
+- [x] Tên dự án & slogan
+- [x] Mô tả mục đích và mục tiêu ứng dụng
 
 ### 🔍 Viết Wiki – Market Research
-- [ ] Nghiên cứu ít nhất 5 sản phẩm tương tự
-- [ ] Tóm tắt insights & gaps / cơ hội thị trường
+- [x] Nghiên cứu ít nhất 5 sản phẩm tương tự
+- [x] Tóm tắt insights & gaps / cơ hội thị trường
 
 ### 🧩 Viết Wiki – Business Model Canvas
-- [ ] Vẽ/bảng Business Model Canvas đầy đủ
-- [ ] Nêu bật unique value proposition
+- [x] Vẽ/bảng Business Model Canvas đầy đủ
+- [x] Nêu bật unique value proposition
 
 ### 🚀 Viết Wiki – MVP Features
-- [ ] Xác định và lập luận cho từng MVP feature
-- [ ] Lập Impact-Effort Matrix để ưu tiên
+- [x] Xác định và lập luận cho từng MVP feature
+- [x] Lập Impact-Effort Matrix để ưu tiên
 
 ### 🔄 Viết Wiki – User Flows
-- [ ] Vẽ user flow cho ít nhất 2 MVP features
-- [ ] Thể hiện rõ từng bước user tương tác
+- [x] Vẽ user flow cho ít nhất 2 MVP features
+- [x] Thể hiện rõ từng bước user tương tác
 
 ### ✅ Setup tasks trên GitHub Project board
 - [ ] Tạo task cho từng feature / module
